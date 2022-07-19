@@ -65,7 +65,6 @@ let render = function (propiedadesFiltered) {
     </section>
     </div>`;
     prop.innerHTML += template;
-    console.log(propiedadesFiltered);
   }
 };
 
